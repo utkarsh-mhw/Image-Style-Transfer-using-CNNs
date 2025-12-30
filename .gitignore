@@ -28,3 +28,5 @@ venv/
 .vscode/
 .idea/
 *.iml
+
+*.pdf
